@@ -1,0 +1,70 @@
+# Qt/C++ build artifacts
+build/
+bin/
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.a
+*.lib
+*.app
+*.user
+*.pro.user
+*.qmake.stash
+*.qmake.cache
+*.moc
+*.rcc
+*.qrc
+*.autosave
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+*.pch
+*.sdf
+*.ipch
+*.aps
+*.ncb
+*.suo
+*.sln
+*.vcxproj*
+*.opensdf
+*.tlog
+*.idb
+*.pdb
+*.ilk
+*.manifest
+*.db
+*.DS_Store
+*.directory
+*.vs/
+# Qt Creator
+*.pro.user*
+*.qbs.user*
+*.creator.user*
+*.creator*
+*.qmlproject.user*
+# VSCode
+.vscode/
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+# Resource compiler
+*.qrc.dep
+# Others
+*.orig
+*.rej
+# Backup files
+*~
+# MacOS
+.DS_Store
+# Windows
+Thumbs.db
+Desktop.ini
+# Python virtualenv (if any)
+venv/
+ENV/ 
